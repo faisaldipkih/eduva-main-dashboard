@@ -1,0 +1,12 @@
+form .row .col-lg-10 {
+    margin-bottom: 1rem;
+}
+
+.dataTables_wrapper .row:last-child {
+    margin-top: 10px !important;
+    font-size: small;
+}
+
+#btn-img:hover{
+    opacity: 0.5;
+}
